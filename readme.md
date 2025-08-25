@@ -1,8 +1,11 @@
 # 📚 Data Structures & Algorithms with LeetCode – 6 Weeks Course  
 
 **Course Trainers:** Hamza Baig, Saira Ishaq  
+
 **Course Moderators:** To be decided
+
 **Course Duration:** *Monday 08 September 2025 — Friday, 18 October 2025*  
+
 **Sessions:** Weekdays (Mon–Fri), *1 hour/day*  
 
 This session is designed to **strengthen your foundations** in Data Structures & Algorithms, sharpen **problem-solving skills**, and prepare you for **coding interviews**.  
