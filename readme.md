@@ -25,8 +25,8 @@ Each day includes:
 
 ## 🗓 Course Outline  
 
-### 🧠 Week 1: Arrays & Strings  
-- **Day 1 (Mon, 25 Aug):** What is DSA? + Arrays Basics | *LC: Concatenation of Arrays*  
+### 🧠 Week 1: Arrays, Strings & Hashing  
+- **Day 1 (Mon, 25 Aug):** What is DSA? Understanding time and space complexity + Arrays and Hashing Basics | *LC: Concatenation of Arrays*  
 - **Day 2 (Tue, 26 Aug):** Array Traversal & Prefix Sums | *LC: Subarray Sum = K*  
 - **Day 3 (Wed, 27 Aug):** Sliding Window Technique | *LC: Longest Substring Without Repeating Characters*  
 - **Day 4 (Thu, 28 Aug):** Strings Manipulation | *LC: Valid Anagram, Longest Palindrome*  
