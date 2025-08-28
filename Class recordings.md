@@ -13,7 +13,6 @@ Leetcode Question:
 
 Solution Link:
 
-
 **Week 1 Day 2**
 
 Class Recording:
@@ -22,3 +21,26 @@ Leetcode Question:
 
 Solution Link:
 
+**Week 1 Day 3**
+
+Class Recording:
+
+Leetcode Question:
+
+Solution Link:
+
+**Week 1 Day 4**
+
+Class Recording:
+
+Leetcode Question:
+
+Solution Link:
+
+**Week 1 Day 5**
+
+Class Recording:
+
+Leetcode Question:
+
+Solution Link:
