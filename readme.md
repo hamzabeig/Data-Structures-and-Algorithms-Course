@@ -4,7 +4,7 @@
 
 **Course Trainers:** Hamza Baig, Saira Ishaq  
 
-**Course Moderators:** To be decided
+**Course Moderators:** Fatima Wazir, Muhammad Qasim, Amina Razzaq
 
 **Course Duration:** *Monday 01 September 2025 — Friday, 26 September 2025*  
 
