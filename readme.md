@@ -59,7 +59,7 @@ Each day includes:
 - **Day 2 (Tue, 30 Sep):** Recursive Tree Problems | *LC: Lowest Common Ancestor*  
 - **Day 3 (Wed, 01 Oct):** Graph Basics + BFS/DFS | *LC: Number of Islands*  
 - **Day 4 (Thu, 02 Oct):** Advanced Graphs (Shortest Path + Topological Sort) | *LC: Network Delay Time, Course Schedule*  
-- **Day 5 (Fri, 03 Oct):** 🎉 Final Recap + Mock Interview Problem Set  
+- **Day 5 (Fri, 03 Oct):** 🎉 Final Recap 
 
 ---
 
