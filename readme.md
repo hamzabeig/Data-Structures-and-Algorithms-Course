@@ -1,12 +1,12 @@
-# 📚 Data Structures & Algorithms with LeetCode – 6 Weeks Course  
+# 📚 Data Structures & Algorithms with LeetCode – 4 Weeks Course  
 
 **Course Trainers:** Hamza Baig, Saira Ishaq  
 
 **Course Moderators:** To be decided
 
-**Course Duration:** *Monday 08 September 2025 — Friday, 18 October 2025*  
+**Course Duration:** *Monday 01 September 2025 — Friday, 26 September 2025*  
 
-**Sessions:** Weekdays (Mon–Fri), *1 hour/day*  
+**Sessions:** 12 AM Midnight (Sunday Night - Thursday Night), *1 hour/day*  
 
 This session is designed to **strengthen your foundations** in Data Structures & Algorithms, sharpen **problem-solving skills**, and prepare you for **coding interviews**.  
 
@@ -25,57 +25,39 @@ Each day includes:
 
 ## 🗓 Course Outline  
 
-### 🧠 Week 1: Arrays, Strings & Hashing  
-- **Day 1 (Mon, 25 Aug):** What is DSA? Understanding time and space complexity + Arrays and Hashing Basics | *LC: Concatenation of Arrays*  
-- **Day 2 (Tue, 26 Aug):** Array Traversal & Prefix Sums | *LC: Subarray Sum = K*  
-- **Day 3 (Wed, 27 Aug):** Sliding Window Technique | *LC: Longest Substring Without Repeating Characters*  
-- **Day 4 (Thu, 28 Aug):** Strings Manipulation | *LC: Valid Anagram, Longest Palindrome*  
-- **Day 5 (Fri, 29 Aug):** Mixed Array/String Problem Set + Recap  
+### 🧠 Week 1: Arrays, Strings, Hashing & Two Pointers  
+- **Day 1 (Mon, 08 Sep):** What is DSA? Time & Space Complexity + Arrays & Hashing Basics | *LC: Concatenation of Array*  
+- **Day 2 (Tue, 09 Sep):** Prefix Sums & Hashmaps | *LC: Subarray Sum = K*  
+- **Day 3 (Wed, 10 Sep):** Sliding Window Technique | *LC: Longest Substring Without Repeating Characters*  
+- **Day 4 (Thu, 11 Sep):** Strings Manipulation + Anagram Problems | *LC: Valid Anagram, Longest Palindrome*  
+- **Day 5 (Fri, 12 Sep):** Two Pointers (Basics & Advanced) | *LC: Move Zeroes, 3Sum*  
 
 ---
 
-### ⚔️ Week 2: Two Pointers & Binary Search  
-- **Day 1 (Mon, 01 Sep):** Two Pointer Intro | *LC: Move Zeroes*  
-- **Day 2 (Tue, 02 Sep):** Two Pointers Advanced | *LC: 3Sum*  
-- **Day 3 (Wed, 03 Sep):** Binary Search Basics | *LC: Binary Search*  
-- **Day 4 (Thu, 04 Sep):** Binary Search Applications | *LC: Search in Rotated Sorted Array*  
-- **Day 5 (Fri, 05 Sep):** Mixed Practice + Recap  
+### ⚔️ Week 2: Binary Search, Stacks & Queues  
+- **Day 1 (Mon, 15 Sep):** Binary Search Basics | *LC: Binary Search*  
+- **Day 2 (Tue, 16 Sep):** Binary Search Applications | *LC: Search in Rotated Sorted Array*  
+- **Day 3 (Wed, 17 Sep):** Stack Basics | *LC: Valid Parentheses*  
+- **Day 4 (Thu, 18 Sep):** Monotonic Stack + Applications | *LC: Daily Temperatures*  
+- **Day 5 (Fri, 19 Sep):** Queue & Deque (Sliding Window Problems) | *LC: Sliding Window Maximum*  
 
 ---
 
-### 🧱 Week 3: Stacks & Queues  
-- **Day 1 (Mon, 08 Sep):** Stack Basics | *LC: Valid Parentheses*  
-- **Day 2 (Tue, 09 Sep):** Monotonic Stack | *LC: Daily Temperatures*  
-- **Day 3 (Wed, 10 Sep):** Queue Basics | *LC: Design Queue*  
-- **Day 4 (Thu, 11 Sep):** Deque & Sliding Window | *LC: Sliding Window Maximum*  
-- **Day 5 (Fri, 12 Sep):** Mixed Practice + Recap  
+### 🔗 Week 3: Linked Lists & Trees  
+- **Day 1 (Mon, 22 Sep):** Linked List Basics & Implementation | *LC: Reverse Linked List*  
+- **Day 2 (Tue, 23 Sep):** Fast & Slow Pointers | *LC: Linked List Cycle*  
+- **Day 3 (Wed, 24 Sep):** Merge & Reorder | *LC: Merge Two Sorted Lists*  
+- **Day 4 (Thu, 25 Sep):** Tree Basics + Traversals | *LC: Maximum Depth of Binary Tree*  
+- **Day 5 (Fri, 26 Sep):** BFS & DFS in Trees | *LC: Binary Tree Level Order Traversal*  
 
 ---
 
-### 🔗 Week 4: Linked Lists  
-- **Day 1 (Mon, 15 Sep):** LL Basics & Implementation | *LC: Reverse Linked List*  
-- **Day 2 (Tue, 16 Sep):** Fast & Slow Pointers | *LC: Linked List Cycle*  
-- **Day 3 (Wed, 17 Sep):** Merge & Reorder | *LC: Merge Two Sorted Lists*  
-- **Day 4 (Thu, 18 Sep):** Advanced LL Problems | *LC: LRU Cache (intro)*  
-- **Day 5 (Fri, 19 Sep):** Practice + Recap  
-
----
-
-### 🌳 Week 5: Trees & Binary Search Trees  
-- **Day 1 (Mon, 22 Sep):** Tree Basics & Traversals | *LC: Maximum Depth of Binary Tree*  
-- **Day 2 (Tue, 23 Sep):** BFS & DFS | *LC: Binary Tree Level Order Traversal*  
-- **Day 3 (Wed, 24 Sep):** BST Concepts | *LC: Validate BST*  
-- **Day 4 (Thu, 25 Sep):** Recursive Tree Problems | *LC: Lowest Common Ancestor*  
-- **Day 5 (Fri, 26 Sep):** Practice + Recap  
-
----
-
-### 🌐 Week 6: Graphs & Wrap-Up  
-- **Day 1 (Mon, 29 Sep):** Graph Representation & BFS/DFS | *LC: Number of Islands*  
-- **Day 2 (Tue, 30 Sep):** BFS/DFS Advanced | *LC: Clone Graph*  
-- **Day 3 (Wed, 01 Oct):** Shortest Path (BFS/Dijkstra) | *LC: Network Delay Time*  
-- **Day 4 (Thu, 02 Oct):** Topological Sort & Advanced Topics | *LC: Course Schedule*  
-- **Day 5 (Fri, 03 Oct):** 🎉 Q & A + Course Recap  
+### 🌐 Week 4: BST, Graphs & Wrap-Up  
+- **Day 1 (Mon, 29 Sep):** BST Concepts | *LC: Validate BST*  
+- **Day 2 (Tue, 30 Sep):** Recursive Tree Problems | *LC: Lowest Common Ancestor*  
+- **Day 3 (Wed, 01 Oct):** Graph Basics + BFS/DFS | *LC: Number of Islands*  
+- **Day 4 (Thu, 02 Oct):** Advanced Graphs (Shortest Path + Topological Sort) | *LC: Network Delay Time, Course Schedule*  
+- **Day 5 (Fri, 03 Oct):** 🎉 Final Recap + Mock Interview Problem Set  
 
 ---
 
