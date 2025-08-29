@@ -1,4 +1,4 @@
-# 📚 Data Structures & Algorithms with LeetCode – 4 Weeks Course  
+# 📚 Data Structures & Algorithms – 4 Weeks Course  
 
 **Course Recordings:** [https://github.com/hamzabeig/Data-Structures-and-Algorithms-Course/blob/main/Class%20recordings.md]
 
