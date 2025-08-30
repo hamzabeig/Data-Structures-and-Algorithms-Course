@@ -2,15 +2,16 @@
 
 **Course Recordings:** [https://github.com/hamzabeig/Data-Structures-and-Algorithms-Course/blob/main/Class%20recordings.md]
 
-**Course Trainers:** Hamza Baig, Saira Ishaq  
+**Course Trainers:** Hamza Baig, Saira Ishaq, Yawar Munir 
 
-**Course Moderators:** Fatima Wazir, Muhammad Qasim, Amina Razzaq
+**Course Moderators:** Fatima Wazir, Amina Razzaq, Muhammad Haris Khan
 
 **Course Duration:** *Monday 01 September 2025 — Friday, 26 September 2025*  
 
-**Sessions:** 12 AM Midnight (Sunday Night - Thursday Night), *1 hour/day*  
+**Sessions:** *4PM PKT* (Monday - Friday), 1 hour/day  
 
-This session is designed to **strengthen your foundations** in Data Structures & Algorithms, sharpen **problem-solving skills**, and prepare you for **coding interviews**.  
+Facing problem jumping into DSA? Feeling bewildered in coding sessions? No worries! 
+When I began learning Data Structures & Algorithms (DSA) as someone from a non-CS background, the journey wasn’t easy. Things were flying over my head, and solving LeetCode problems felt overwhelming. Instead of giving up, I captured those struggles, reflected on them, and decided to help beginners who face the same challenges. So I decided to start a **begginer-friendly course** on DSA. This course is not about blindly solving hundreds of questions. We believe in **quality over quantity**, digging into the **“why”** and understanding the reasoning behind each solution. The goal is to  **strengthen your foundations** in Data Structures & Algorithms, and build **lasting problem-solving skills**, not just short-term answers. By the end of this course, you’ll be able to grasp, comprehend, and confidently participate in any coding session. No longer feeling left behind, but truly enjoying the process of problem-solving.
 
 Each day includes:  
 1. 📖 *Concept* (15–20 mins)  
