@@ -1,6 +1,6 @@
 # 📚 Data Structures & Algorithms – 4 Weeks Course  
 
-**Course Recordings:** [Recordings](https://github.com/hamzabeig/Data-Structures-and-Algorithms-Course/blob/main/Class%20recordings.md)
+**Course Recordings:** [Click Here](https://github.com/hamzabeig/Data-Structures-and-Algorithms-Course/blob/main/Class%20recordings.md)
 
 **Course Trainers:** Hamza Baig, Saira Ishaq, Yawar Munir 
 
