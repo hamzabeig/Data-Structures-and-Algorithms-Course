@@ -67,5 +67,5 @@ Each day includes:
 ## 💡 Tips for Success  
 - ✅ Understand the core concepts of DSA  
 - ✅ Be consistent and don’t hesitate to ask questions  
-- ✅ Don’t expect drastic change in a few days — *give yourself time*  
-- ✅ Don’t just solve questions — *learn something new from each one*  
+- ✅ Don’t expect drastic change in a few days, *give yourself time*  
+- ✅ Don’t just solve questions, *learn something new from each one*  
