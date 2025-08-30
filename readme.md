@@ -2,7 +2,7 @@
 
 **Course Recordings:** [Click Here](https://github.com/hamzabeig/Data-Structures-and-Algorithms-Course/blob/main/Class%20recordings.md)
 
-**Course Trainers:** [Hamza Baig](https://www.linkedin.com/in/hbhamzabaig/), [Saira Ishaq](https://www.linkedin.com/in/sairaishaq/), [Yawar Munir](https://www.linkedin.com/in/yawar363/) 
+**Course Trainers:** [Hamza Baig](https://www.linkedin.com/in/hbhamzabaig/), [Saira Ishaq](https://www.linkedin.com/in/sairaishaq/), [Yawar Munir](https://www.linkedin.com/in/yawar363/) (Click on Name for Linkedin)
 
 **Course Moderators:** [Fatima Wazir](https://www.linkedin.com/in/fatima-3ba3b136a/), [Amina Razzaq](https://www.linkedin.com/in/amina-razzaq-65960429b/), [Muhammad Haris Khan](https://www.linkedin.com/in/muhammad-haris-khan18/)
 
