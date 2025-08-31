@@ -6,6 +6,6 @@
 
 | **Lecture** | **DSA Concept** | **Recording Link** | **Questions** |
 |------------|------------------|---------------|---------------|
-| Day 1 | Topic | [Watch]() | [Question]() |
+| Day 1 | `Topic` | [Watch]() | [Question]() |
 
 
