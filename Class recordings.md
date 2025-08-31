@@ -1,4 +1,4 @@
-## 12 AM DSA and Leetcode Class Recordings
+## 12 AM Applied DSA with LeetCode Class Recordings
 
 ---
 
