@@ -1,6 +1,6 @@
 # 📚 Applied Data Structures & Algorithms with LeetCode – 4 Weeks Course  
 
-**Course Recordings:** [Click Here](https://github.com/hamzabeig/Data-Structures-and-Algorithms-Course/blob/main/Class%20recordings.md)
+**[Course Recordings](https://github.com/hamzabeig/Data-Structures-and-Algorithms-Course/blob/main/Class%20recordings.md)**
 
 **Course Trainers:** [Hamza Baig](https://www.linkedin.com/in/hbhamzabaig/), [Saira Ishaq](https://www.linkedin.com/in/sairaishaq/), [Yawar Munir](https://www.linkedin.com/in/yawar363/) (Click on Name for Linkedin)
 
