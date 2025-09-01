@@ -4,8 +4,8 @@
 
 ## 🗓️ Week 1
 
-| **Lecture** | **DSA Concept** | **Recording Link** | **Questions** |
-|------------|------------------|---------------|---------------|
-| Day 1 | `Topic` | [Watch]() | [Question]() |
+| **Lecture** | **DSA Concept** | **Recording Link** | **Questions** | **Solution Code** |
+|------------|------------------|---------------|------------------------|------------------------|
+| Day 1 | `Topic` | [Watch]() | [134]() | [134]()
 
 
