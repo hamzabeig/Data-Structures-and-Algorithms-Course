@@ -29,16 +29,16 @@ Each day includes:
 ## 🗓 Course Outline  
 
 ### 🧠 Week 1: Arrays, Strings, Hashing & Two Pointers  
-- **Day 1 (Mon, 01 Sep):** What is DSA? Time & Space Complexity + Arrays & Hashing Basics | *LC: Concatenation of Array*  
-- **Day 2 (Tue, 02 Sep):** Prefix Sums & Hashmaps | *LC: Subarray Sum = K*  
-- **Day 3 (Wed, 03 Sep):** Sliding Window Technique | *LC: Longest Substring Without Repeating Characters*  
-- **Day 4 (Thu, 04 Sep):** Strings Manipulation + Anagram Problems | *LC: Valid Anagram, Longest Palindrome*  
-- **Day 5 (Fri, 05 Sep):** Two Pointers (Basics & Advanced) | *LC: Move Zeroes, 3Sum*  
+- **Day 1 (Mon, 01 Sep):** What is DSA? Time & Space Complexity  | *LC: Concatenation of Array*  
+- **Day 2 (Tue, 02 Sep):** Arrays, PythonLists, Linked List & Hashing Basics  
+- **Day 3 (Wed, 03 Sep):** Quiz Competition , Hash COliision | *LC: Contains Duplicate*  
+- **Day 4 (Thu, 04 Sep):** Strings Manipulation + Anagram Problems | *LC: Valid Anagram, Group Anagram*  
+- **Day 5 (Fri, 05 Sep):** Two Pointers Basics | *LC: Two Sum*  
 
 ---
 
 ### ⚔️ Week 2: Binary Search, Stacks & Queues  
-- **Day 1 (Mon, 08 Sep):** Binary Search Basics | *LC: Binary Search*  
+- **Day 1 (Mon, 08 Sep):** Two Pointers (Advance), Binary Search Basics | *LC: Two Sum - II * *LC: Binary Search*  
 - **Day 2 (Tue, 09 Sep):** Binary Search Applications | *LC: Search in Rotated Sorted Array*  
 - **Day 3 (Wed, 10 Sep):** Stack Basics | *LC: Valid Parentheses*  
 - **Day 4 (Thu, 11 Sep):** Monotonic Stack + Applications | *LC: Daily Temperatures*  
