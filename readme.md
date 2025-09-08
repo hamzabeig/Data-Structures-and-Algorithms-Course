@@ -38,8 +38,8 @@ Each day includes:
 ---
 
 ### ⚔️ Week 2: Binary Search, Stacks & Queues  
-- **Day 1 (Mon, 08 Sep):** Two Pointers (Advance), Binary Search Basics | *LC: Two Sum - II * *LC: Binary Search*  
-- **Day 2 (Tue, 09 Sep):** Binary Search Applications | *LC: Search in Rotated Sorted Array*  
+- **Day 1 (Mon, 08 Sep):** Two Pointers (Advance) | *LC: Valid Palindrome* *LC: Reverse String*  
+- **Day 2 (Tue, 09 Sep):** Binary Search Basics, Binary Search Applications | *LC: Search in Rotated Sorted Array*  
 - **Day 3 (Wed, 10 Sep):** Stack Basics | *LC: Valid Parentheses*  
 - **Day 4 (Thu, 11 Sep):** Monotonic Stack + Applications | *LC: Daily Temperatures*  
 - **Day 5 (Fri, 12 Sep):** Queue & Deque (Sliding Window Problems) | *LC: Sliding Window Maximum*  
