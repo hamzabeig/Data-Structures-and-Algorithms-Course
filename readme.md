@@ -2,7 +2,7 @@
 
 **[Course Recordings](https://github.com/hamzabeig/Data-Structures-and-Algorithms-Course/blob/main/Class%20recordings.md)**
 
-**Course Trainers:** [Hamza Baig](https://www.linkedin.com/in/hbhamzabaig/), [Saira Ishaq](https://www.linkedin.com/in/sairaishaq/), [Yawar Munir](https://www.linkedin.com/in/yawar363/) (Click on Name for Linkedin)
+**Course Trainers:** [Hamza Baig](https://www.linkedin.com/in/hbhamzabaig/), [Marium Noor Khetran](https://www.linkedin.com/in/mariumnoorkhetran/)
 
 **Course Moderators:** [Fatima Wazir](https://www.linkedin.com/in/fatima-3ba3b136a/), [Amina Razzaq](https://www.linkedin.com/in/amina-razzaq-65960429b/), [Muhammad Haris Khan](https://www.linkedin.com/in/muhammad-haris-khan18/)
 
@@ -31,7 +31,7 @@ Each day includes:
 ### 🧠 Week 1: Arrays, Strings, Hashing & Two Pointers  
 - **Day 1 (Mon, 01 Sep):** What is DSA? Time & Space Complexity  | *LC: Concatenation of Array*  
 - **Day 2 (Tue, 02 Sep):** Arrays, PythonLists, Linked List & Hashing Basics  
-- **Day 3 (Wed, 03 Sep):** Quiz Competition , Hash COliision | *LC: Contains Duplicate*  
+- **Day 3 (Wed, 03 Sep):** Quiz Competition , Hash Collision | *LC: Contains Duplicate*  
 - **Day 4 (Thu, 04 Sep):** Strings Manipulation + Anagram Problems | *LC: Valid Anagram, Group Anagram*  
 - **Day 5 (Fri, 05 Sep):** Two Pointers Basics | *LC: Two Sum*  
 
