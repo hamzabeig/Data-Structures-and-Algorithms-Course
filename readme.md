@@ -2,11 +2,11 @@
 
 **[Course Recordings](https://github.com/hamzabeig/Data-Structures-and-Algorithms-Course/blob/main/Class%20recordings.md)**
 
-**Course Trainers:** [Hamza Baig](https://www.linkedin.com/in/hbhamzabaig/), [Marium Noor Khetran](https://www.linkedin.com/in/mariumnoorkhetran/)
+**Course Trainers:** [Hamza Baig](https://www.linkedin.com/in/hbhamzabaig/) , [Marium Noor Khetran](https://www.linkedin.com/in/mariumnoorkhetran/) , [Yawar Munir](https://www.linkedin.com/in/yawar363/)
 
-**Course Moderators:** [Fatima Wazir](https://www.linkedin.com/in/fatima-3ba3b136a/), [Amina Razzaq](https://www.linkedin.com/in/amina-razzaq-65960429b/), [Muhammad Haris Khan](https://www.linkedin.com/in/muhammad-haris-khan18/)
+**Course Moderators:** [Fatima Wazir](https://www.linkedin.com/in/fatima-3ba3b136a/) , [Amina Razzaq](https://www.linkedin.com/in/amina-razzaq-65960429b/) , [Muhammad Haris Khan](https://www.linkedin.com/in/muhammad-haris-khan18/)
 
-**Course Duration:** *Monday 01 September 2025 — Friday, 26 September 2025*  
+**Course Duration:** *Monday 01 September 2025 — Friday, 03 October 2025*  
 
 **Sessions:** *4PM PKT* (Monday - Friday), 1 hour/day  
 
@@ -51,7 +51,7 @@ Each day includes:
 - **Day 2 (Tue, 16 Sep):** Stack Basics | *LC: Valid Parentheses* Monotonic Stack + Applications | *LC: Daily Temperatures*   
 - **Day 3 (Wed, 17 Sep):** Queue & Deque (Sliding Window Problems) | *LC: Sliding Window Maximum*  Merge & Reorder | *LC: Merge Two Sorted Lists*  
 - **Day 4 (Thu, 18 Sep):** Linked List Basics & Implementation | *LC: Reverse Linked List* Fast & Slow Pointers | *LC: Linked List Cycle*
-- **Day 5 (Fri, 19 Sep):** Recursion
+- **Day 5 (Fri, 19 Sep):** Recursion Basics |  *LC: Factorial*
 
 ---
 
