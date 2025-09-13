@@ -63,6 +63,7 @@ Each day includes:
 - **Day 5 (Fri, 26 Sep):** Advanced Graphs (Shortest Path + Topological Sort) | *LC: Network Delay Time, Course Schedule* 
 
 ---
+
 ### 🌐 Week 5: Course Wrap-up
 - **Day 1 (Mon, 29 Sep):**   To be decided
 - **Day 2 (Tue, 30 Sep):**   To be decided
@@ -71,6 +72,7 @@ Each day includes:
 - **Day 5 (Fri, 03 Oct):** 🎉 Final Recap
 
 ---
+
 ## 💡 Tips for Success  
 - ✅ Understand the core concepts of DSA  
 - ✅ Be consistent and don’t hesitate to ask questions  
