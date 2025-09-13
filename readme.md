@@ -1,4 +1,4 @@
-# 📚 Applied Data Structures & Algorithms with LeetCode – 4 Weeks Course  
+# 📚 Fundamentals of Data Structures and Algorithms
 
 **[Course Recordings](https://github.com/hamzabeig/Data-Structures-and-Algorithms-Course/blob/main/Class%20recordings.md)**
 
@@ -38,20 +38,20 @@ Each day includes:
 ---
 
 ### ⚔️ Week 2: Binary Search, Stacks & Queues  
-- **Day 1 (Mon, 08 Sep):** Two Pointers (Advance) | *LC: Valid Palindrome* *LC: Reverse String*  
-- **Day 2 (Tue, 09 Sep):** Binary Search Basics, Binary Search Applications | *LC: Search in Rotated Sorted Array*  
-- **Day 3 (Wed, 10 Sep):** Stack Basics | *LC: Valid Parentheses*  
-- **Day 4 (Thu, 11 Sep):** Monotonic Stack + Applications | *LC: Daily Temperatures*  
-- **Day 5 (Fri, 12 Sep):** Queue & Deque (Sliding Window Problems) | *LC: Sliding Window Maximum*  
+- **Day 1 (Mon, 08 Sep):** Two Pointers (Advance) | *LC: Two Sum- II* *LC: 3Sum*  
+- **Day 2 (Tue, 09 Sep):** Two Pointers (Advance) | *LC: 4Sum*
+- **Day 3 (Wed, 10 Sep):** Two Pointers (Advance) | *LC: Trapping Rain Water*
+- **Day 4 (Thu, 11 Sep):** Binary Search Basics, Binary Search Applications | *LC: Two Sum- Sorted Array*  
+- **Day 5 (Fri, 12 Sep):** Binary Search Advance, Pointers Manipulation | *LC: Search in Rotated Sorted Array*  
 
 ---
 
 ### 🔗 Week 3: Linked Lists & Trees  
-- **Day 1 (Mon, 15 Sep):** Linked List Basics & Implementation | *LC: Reverse Linked List*  
-- **Day 2 (Tue, 16 Sep):** Fast & Slow Pointers | *LC: Linked List Cycle*  
-- **Day 3 (Wed, 17 Sep):** Merge & Reorder | *LC: Merge Two Sorted Lists*  
-- **Day 4 (Thu, 18 Sep):** Tree Basics + Traversals | *LC: Maximum Depth of Binary Tree*  
-- **Day 5 (Fri, 19 Sep):** BFS & DFS in Trees | *LC: Binary Tree Level Order Traversal*  
+- **Day 1 (Mon, 15 Sep):** Bit Manipulation *LC: Add Binary*  
+- **Day 2 (Tue, 16 Sep):** Stack Basics | *LC: Valid Parentheses* Monotonic Stack + Applications | *LC: Daily Temperatures*   
+- **Day 3 (Wed, 17 Sep):** Queue & Deque (Sliding Window Problems) | *LC: Sliding Window Maximum*  Merge & Reorder | *LC: Merge Two Sorted Lists*  
+- **Day 4 (Thu, 18 Sep):** Linked List Basics & Implementation | *LC: Reverse Linked List* Fast & Slow Pointers | *LC: Linked List Cycle*
+- **Day 5 (Fri, 19 Sep):** Tree Basics + Traversals | *LC: Maximum Depth of Binary Tree*   BFS & DFS in Trees | *LC: Binary Tree Level Order Traversal*  
 
 ---
 
