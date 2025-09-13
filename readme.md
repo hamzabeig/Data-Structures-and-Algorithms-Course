@@ -51,19 +51,26 @@ Each day includes:
 - **Day 2 (Tue, 16 Sep):** Stack Basics | *LC: Valid Parentheses* Monotonic Stack + Applications | *LC: Daily Temperatures*   
 - **Day 3 (Wed, 17 Sep):** Queue & Deque (Sliding Window Problems) | *LC: Sliding Window Maximum*  Merge & Reorder | *LC: Merge Two Sorted Lists*  
 - **Day 4 (Thu, 18 Sep):** Linked List Basics & Implementation | *LC: Reverse Linked List* Fast & Slow Pointers | *LC: Linked List Cycle*
-- **Day 5 (Fri, 19 Sep):** Tree Basics + Traversals | *LC: Maximum Depth of Binary Tree*   BFS & DFS in Trees | *LC: Binary Tree Level Order Traversal*  
+- **Day 5 (Fri, 19 Sep):** Recursion
 
 ---
 
-### 🌐 Week 4: BST, Graphs & Wrap-Up  
-- **Day 1 (Mon, 22 Sep):** BST Concepts | *LC: Validate BST*  
-- **Day 2 (Tue, 23 Sep):** Recursive Tree Problems | *LC: Lowest Common Ancestor*  
-- **Day 3 (Wed, 24 Sep):** Graph Basics + BFS/DFS | *LC: Number of Islands*  
-- **Day 4 (Thu, 25 Sep):** Advanced Graphs (Shortest Path + Topological Sort) | *LC: Network Delay Time, Course Schedule*  
-- **Day 5 (Fri, 26 Sep):** 🎉 Final Recap 
+### 🌐 Week 4: Trees BST and Graphs
+- **Day 1 (Mon, 22 Sep):** Tree Basics + Traversals | *LC: Maximum Depth of Binary Tree*    
+- **Day 2 (Tue, 23 Sep):** BFS & DFS in Trees | *LC: Binary Tree Level Order Traversal*  
+- **Day 3 (Wed, 24 Sep):** BST Concepts | *LC: Validate BST*   Recursive Tree Problems | *LC: Lowest Common Ancestor*  
+- **Day 4 (Thu, 25 Sep):** Graph Basics + BFS/DFS | *LC: Number of Islands*   
+- **Day 5 (Fri, 26 Sep):** Advanced Graphs (Shortest Path + Topological Sort) | *LC: Network Delay Time, Course Schedule* 
 
 ---
+### 🌐 Week 5: Course Wrap-up
+- **Day 1 (Mon, 29 Sep):**   To be decided
+- **Day 2 (Tue, 30 Sep):**   To be decided
+- **Day 3 (Wed, 01 Oct):**   To be decided
+- **Day 4 (Thu, 02 Oct):**   To be decided
+- **Day 5 (Fri, 03 Oct):** 🎉 Final Recap
 
+---
 ## 💡 Tips for Success  
 - ✅ Understand the core concepts of DSA  
 - ✅ Be consistent and don’t hesitate to ask questions  
