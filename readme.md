@@ -38,7 +38,7 @@ Each day includes:
 ---
 
 ### ⚔️ Week 2: Binary Search, Stacks & Queues  
-- **Day 1 (Mon, 08 Sep):** Two Pointers (Advance) | *LC: Two Sum- II* *LC: 3Sum*  
+- **Day 1 (Mon, 08 Sep):** Two Pointers (Baics) | *LC: Two Sum- II*, *LC: 3Sum*  
 - **Day 2 (Tue, 09 Sep):** Two Pointers (Advance) | *LC: 4Sum*
 - **Day 3 (Wed, 10 Sep):** Two Pointers (Advance) | *LC: Trapping Rain Water*
 - **Day 4 (Thu, 11 Sep):** Binary Search Basics, Binary Search Applications | *LC: Two Sum- Sorted Array*  
