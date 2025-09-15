@@ -22,3 +22,12 @@
 | Day 3 | `Two pointers (Advance)` `nested While` `running Max`    | [Watch](https://youtu.be/gWVNa7VvufI)         |    [18. 4 Sum](https://leetcode.com/problems/4sum/description/)   [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)  [219. Contains Duplicate - II](https://leetcode.com/problems/contains-duplicate-ii/description/)         |   [18. 4 Sum](https://github.com/hamzabeig/Leetcode/tree/main/0018-4sum)   [42. Trapping Rain Water](https://github.com/hamzabeig/Leetcode/tree/main/0042-trapping-rain-water)  [219. Contains Duplicate - II](https://github.com/hamzabeig/Leetcode/tree/main/0219-contains-duplicate-ii)  | Hamza Baig
 | Day 4 | `Binary Search`    | [Watch](https://youtu.be/M9-BP7HFQ14)         |     [167. two Sum-ii](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)         |   [167. two Sum-ii](https://github.com/hamzabeig/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted) | Marium Noor Khetran
 | Day 5 | `Binary Search (advance)`  `Self Pointer`  | [Watch](https://youtu.be/S3GsJ2NaK0Q)         |     [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)         |  [33. Search in Rotated Sorted Array](https://github.com/hamzabeig/Leetcode/tree/main/0033-search-in-rotated-sorted-array)    | Marium Noor Khetran  
+
+
+## 🗓️ Week 3
+
+| **Lecture** | **DSA Concept**                                | **Recording Link**                           | **Questions** | **Solution Code** |**Trainer** |
+|------------|-------------------------------------------------|----------------------------------------------|-----------------------------------|------------------------|------------------------|
+| Day 1 | `Bit Manipulation` `Bin-Dec Conversion`   `Bitwise Operators`     | [Watch](https://youtu.be/uWMio0Hj5oA)         |    [67. Add Binary](https://leetcode.com/problems/add-binary/)           |      [67. Add Binary](https://github.com/hamzabeig/Leetcode/blob/main/0067-add-binary-jaweria/addbinary.py)    | Hamza Baig
+
+
