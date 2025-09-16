@@ -29,5 +29,6 @@
 | **Lecture** | **DSA Concept**                                | **Recording Link**                           | **Questions** | **Solution Code** |**Trainer** |
 |------------|-------------------------------------------------|----------------------------------------------|-----------------------------------|------------------------|------------------------|
 | Day 1 | `Bit Manipulation` `Bin-Dec Conversion`   `Bitwise Operators`     | [Watch](https://youtu.be/uWMio0Hj5oA)         |    [67. Add Binary](https://leetcode.com/problems/add-binary/)           |      [67. Add Binary](https://github.com/hamzabeig/Leetcode/blob/main/0067-add-binary-jaweria/addbinary.py)    | Hamza Baig
+| Day 2 | `Stack`     | [Watch](https://youtu.be/POn00ywwpT0)         |    [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)  [20. Valid Parantheses](https://leetcode.com/problems/valid-parentheses/description/)         |    [682. Baseball Game](https://github.com/hamzabeig/Leetcode/tree/main/0682-baseball-game)  [20. Valid Parantheses](https://github.com/hamzabeig/Leetcode/tree/main/0020-valid-parentheses)       | Hamza Baig
 
 
