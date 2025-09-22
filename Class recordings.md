@@ -39,7 +39,7 @@
 
 | **Lecture** | **DSA Concept**                                | **Recording Link**                           | **Questions** | **Solution Code** |**Trainer** |
 |------------|-------------------------------------------------|----------------------------------------------|-----------------------------------|------------------------|------------------------|
-| Day 1 | `Bit Manipulation` `Bin-Dec Conversion`   `Bitwise Operators`     | [Watch](https://youtu.be/h3AjyPuwmxU)         |    [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)           |      [509. Fibonacci Number](https://github.com/hamzabeig/Leetcode/tree/main/1013-fibonacci-number)    | Hamza Baig
+| Day 1 | `Recusion Basics`   `Factorial`  `Fibonacci`   | [Watch](https://youtu.be/h3AjyPuwmxU)         |    [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)           |      [509. Fibonacci Number](https://github.com/hamzabeig/Leetcode/tree/main/1013-fibonacci-number)    | Hamza Baig
 
 
 
