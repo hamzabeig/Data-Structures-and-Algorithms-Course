@@ -33,3 +33,13 @@
 | Day 3 | `Queue`  `Implementing Queue using Stack` `Circular Queue`   | [Watch](https://youtu.be/5ASm2_BAK2w)         |    [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)      |     [232. Implement Queue using Stacks](https://github.com/hamzabeig/Leetcode/tree/main/0232-implement-queue-using-stacks)    | Touseef Ahmed
 | Day 4 | `LinkedList`  `Odd Even LinkedList` `Duplicates`   | [Watch](https://youtu.be/ql-3EZ0bSjI)         | [83. Remove Duplicate from a Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)    [328. Odd Even LinkedList](https://leetcode.com/problems/odd-even-linked-list/description/)  |    [83. Remove Duplicate from a Sorted List]() [328. Odd Even LinkedList]()    | Marium Noor
 | Day 5 | `Weekly Reveiw`  `Stack` `Queue` `LinkedList`   | [Watch](https://youtu.be/i7Oxq1GMqkU)         | [20. Valid Parantheses](https://leetcode.com/problems/valid-parentheses/description/)         |    [20. Valid Parantheses](https://github.com/hamzabeig/Leetcode/tree/main/0020-valid-parentheses)       | Safiullah Saleem             Hamza Baig
+
+
+## 🗓️ Week 4
+
+| **Lecture** | **DSA Concept**                                | **Recording Link**                           | **Questions** | **Solution Code** |**Trainer** |
+|------------|-------------------------------------------------|----------------------------------------------|-----------------------------------|------------------------|------------------------|
+| Day 1 | `Bit Manipulation` `Bin-Dec Conversion`   `Bitwise Operators`     | [Watch](https://youtu.be/h3AjyPuwmxU)         |    [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)           |      [509. Fibonacci Number](https://github.com/hamzabeig/Leetcode/tree/main/1013-fibonacci-number)    | Hamza Baig
+
+
+
