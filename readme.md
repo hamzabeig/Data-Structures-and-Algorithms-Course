@@ -37,39 +37,39 @@ Each day includes:
 
 ---
 
-### ⚔️ Week 2: Binary Search, Stacks & Queues  
-- **Day 1 (Mon, 08 Sep):** Two Pointers (Baics) | *LC: Two Sum- II*, *LC: 3Sum*  
-- **Day 2 (Tue, 09 Sep):** Two Pointers (Advance) | *LC: 4Sum*
-- **Day 3 (Wed, 10 Sep):** Two Pointers (Advance) | *LC: Trapping Rain Water*
+### ⚔️ Week 2: Two Pointers & Binary Search  
+- **Day 1 (Mon, 08 Sep):** Two Pointers (Baics) | *LC: Revrese String* *LC: Valid Palindrome*
+- **Day 2 (Tue, 09 Sep):** Two Pointers (Advance) | *LC: Two Sum- II*, *LC: 3Sum* 
+- **Day 3 (Wed, 10 Sep):** Two Pointers (Advance) |  *LC: 4Sum* *LC: Trapping Rain Water*
 - **Day 4 (Thu, 11 Sep):** Binary Search Basics, Binary Search Applications | *LC: Two Sum- Sorted Array*  
 - **Day 5 (Fri, 12 Sep):** Binary Search Advance, Pointers Manipulation | *LC: Search in Rotated Sorted Array*  
 
 ---
 
-### 🔗 Week 3: Linked Lists & Trees  
+### 🔗 Week 3: Bit Manipulation, Stack, Queue & Linked Lists  
 - **Day 1 (Mon, 15 Sep):** Bit Manipulation *LC: Add Binary*  
-- **Day 2 (Tue, 16 Sep):** Stack Basics | *LC: Valid Parentheses* Monotonic Stack + Applications | *LC: Daily Temperatures*   
-- **Day 3 (Wed, 17 Sep):** Queue & Deque (Sliding Window Problems) | *LC: Sliding Window Maximum*  Merge & Reorder | *LC: Merge Two Sorted Lists*  
-- **Day 4 (Thu, 18 Sep):** Linked List Basics & Implementation | *LC: Reverse Linked List* Fast & Slow Pointers | *LC: Linked List Cycle*
-- **Day 5 (Fri, 19 Sep):** Recursion Basics |  *LC: Factorial*
+- **Day 2 (Tue, 16 Sep):** Stack Basics | *LC: Valid Parentheses* *LC: BaseBall Game*   
+- **Day 3 (Wed, 17 Sep):** Queue & Deque (Sliding Window Problems) | *LC: Implement Queue Using STacks* *LC: Design Circular Queue*  
+- **Day 4 (Thu, 18 Sep):** Linked List Basics & Implementation | *LC: Remove DUplicates from Sorted List* *LC: Odd Even Linked List*
+- **Day 5 (Fri, 19 Sep):** Weekly Recap, Stack, Queue, LinkedList | *LC: Valid Paranthesis* 
 
 ---
 
-### 🌐 Week 4: Trees BST and Graphs
-- **Day 1 (Mon, 22 Sep):** Tree Basics + Traversals | *LC: Maximum Depth of Binary Tree*    
-- **Day 2 (Tue, 23 Sep):** BFS & DFS in Trees | *LC: Binary Tree Level Order Traversal*  
-- **Day 3 (Wed, 24 Sep):** BST Concepts | *LC: Validate BST*   Recursive Tree Problems | *LC: Lowest Common Ancestor*  
-- **Day 4 (Thu, 25 Sep):** Graph Basics + BFS/DFS | *LC: Number of Islands*   
-- **Day 5 (Fri, 26 Sep):** Advanced Graphs (Shortest Path + Topological Sort) | *LC: Network Delay Time, Course Schedule* 
+### 🌐 Week 4: Recursionn, Trees & BST
+- **Day 1 (Mon, 22 Sep):** Recursion Basics |  *LC: Factorial*    
+- **Day 2 (Tue, 23 Sep):** Tree Basics + Traversals | *LC: Maximum Depth of Binary Tree*  
+- **Day 3 (Wed, 24 Sep):** BFS & DFS in Trees | *LC: Binary Tree Level Order Traversal* 
+- **Day 4 (Thu, 25 Sep):** BST Concepts | *LC: Validate BST*      
+- **Day 5 (Fri, 26 Sep):** Recursive Tree Problems | *LC: Lowest Common Ancestor*  
 
 ---
 
-### 🌐 Week 5: Course Wrap-up
-- **Day 1 (Mon, 29 Sep):**   To be decided
-- **Day 2 (Tue, 30 Sep):**   To be decided
-- **Day 3 (Wed, 01 Oct):**   To be decided
-- **Day 4 (Thu, 02 Oct):**   To be decided
-- **Day 5 (Fri, 03 Oct):** 🎉 Final Recap
+### 🌐 Week 5: Backtracking & Graphs
+- **Day 1 (Mon, 29 Sep):**  Backtracking Basics 
+- **Day 2 (Tue, 30 Sep):**  Graph Basics + BFS/DFS | *LC: Number of Islands* 
+- **Day 3 (Wed, 01 Oct):**  Advanced Graphs (Shortest Path + Topological Sort) | *LC: Network Delay Time, Course Schedule* 
+- **Day 4 (Thu, 02 Oct):**  Dynamic Programming
+- **Day 5 (Fri, 03 Oct):** 🎉Final Recap
 
 ---
 
