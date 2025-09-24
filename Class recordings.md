@@ -41,5 +41,5 @@
 |------------|-------------------------------------------------|----------------------------------------------|-----------------------------------|------------------------|------------------------|
 | Day 1 | `Recursion Basics`   `Factorial`  `Fibonacci`   | [Watch](https://youtu.be/h3AjyPuwmxU)         |    [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)           |      [509. Fibonacci Number](https://github.com/hamzabeig/Leetcode/tree/main/1013-fibonacci-number)    | Hamza Baig
 | Day 2 | `Trees Terminology`   `Binary Tree`  `Tree Traversal`   | [Watch](https://youtu.be/TTpKIwYHXFk)         |    [104. maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)           |      [104. maximum depth of binary tree](https://github.com/hamzabeig/Leetcode/tree/main/0104-maximum-depth-of-binary-tree)    | Marium Noor
-| Day 3 | ``   | [Watch]()         |    []()           |      []()    | Hamza Baig
-
+| Day 3 | `DFS` `BFS` `Quiz Competition   | [Watch](https://youtu.be/3cSdUcY7EqE)         |    [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)           |      [94. Binary Tree Inorder Traversal](https://github.com/hamzabeig/Leetcode/tree/main/0094-binary-tree-inorder-traversal)    | Hamza Baig
+| Day 4 | ``   | [Watch]()         |    []()           |      []()    | Hamza Baig
