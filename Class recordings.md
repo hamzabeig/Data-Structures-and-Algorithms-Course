@@ -43,4 +43,10 @@
 | Day 2 | `Trees Terminology`   `Binary Tree`  `Tree Traversal`   | [Watch](https://youtu.be/TTpKIwYHXFk)         |    [104. maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)           |      [104. maximum depth of binary tree](https://github.com/hamzabeig/Leetcode/tree/main/0104-maximum-depth-of-binary-tree)    | Marium Noor
 | Day 3 | `DFS` `BFS` `Quiz Competition`  | [Watch](https://youtu.be/3cSdUcY7EqE)         |    [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)           |      [94. Binary Tree Inorder Traversal](https://github.com/hamzabeig/Leetcode/tree/main/0094-binary-tree-inorder-traversal)    | Hamza Baig
 | Day 4 | `Binary Search Tree` `Insertion in BST` `Deletion in BST`  | [Watch](https://youtu.be/FxMB5A3aZWI)         |    [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)           |      [700. Search in a Binary Search Tree](https://github.com/hamzabeig/Leetcode/tree/main/0783-search-in-a-binary-search-tree)    | Marium Noor
-| Day 5 | ``   | [Watch]()         |    []()           |      []()    | Hamza Baig
+| Day 5 | `Level Order Traversal` `BFS`   | [Watch](https://youtu.be/8mnMus_NJ5E)         |    [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)           |      [102. Binary Tree Level Order Traversal](https://github.com/hamzabeig/Leetcode/tree/main/0102-binary-tree-level-order-traversal)    | Najma Razzaq
+
+## 🗓️ Week 5
+
+| **Lecture** | **DSA Concept**                                | **Recording Link**                           | **Questions** | **Solution Code** |**Trainer** |
+|------------|-------------------------------------------------|----------------------------------------------|-----------------------------------|------------------------|------------------------|
+| Day 1 | ``   | []()         |   []()         |      []()    | Hamza Baig
