@@ -49,4 +49,5 @@
 
 | **Lecture** | **DSA Concept**                                | **Recording Link**                           | **Questions** | **Solution Code** |**Trainer** |
 |------------|-------------------------------------------------|----------------------------------------------|-----------------------------------|------------------------|------------------------|
-| Day 1 | ``   | []()         |   []()         |      []()    | Hamza Baig
+| Day 1 | `Graphs` `Time Complexities in Graph`    | [Watch](https://youtu.be/aVnMOhilHBk)         |   [NA]()         |      [NA]()    | Touseef Ahmed
+| Day 2 | ``   | []()         |   []()         |      []()    | Hamza Baig
