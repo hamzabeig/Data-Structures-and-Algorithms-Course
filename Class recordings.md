@@ -50,5 +50,5 @@
 | **Lecture** | **DSA Concept**                                | **Recording Link**                           | **Questions** | **Solution Code** |**Trainer** |
 |------------|-------------------------------------------------|----------------------------------------------|-----------------------------------|------------------------|------------------------|
 | Day 1 | `Graphs` `Time Complexities in Graph`    | [Watch](https://youtu.be/aVnMOhilHBk)         |   [NA]()         |      [NA]()    | Touseef Ahmed
-| Day 2 | `Graph DFS` ``   | [Watch](https://youtu.be/5cVvQHBHNQg)         |   [NA]()         |      [Graph DFS](https://github.com/hamzabeig/Leetcode/blob/main/graph-dfs-code/dfs.py)    | Hamza Baig
-| Day 3 | ``   | []()         |   []()         |      []()    | Hamza Baig
+| Day 2 | `Graph DFS` `Traversal`   | [Watch](https://youtu.be/5cVvQHBHNQg)         |   [NA]()         |      [Graph DFS](https://github.com/hamzabeig/Leetcode/blob/main/graph-dfs-code/dfs.py)    | Hamza Baig
+| Day 3 | ``   | []()         |   []()         |      []()    | Marium Noor
