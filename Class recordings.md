@@ -51,4 +51,5 @@
 |------------|-------------------------------------------------|----------------------------------------------|-----------------------------------|------------------------|------------------------|
 | Day 1 | `Graphs` `Time Complexities in Graph`    | [Watch](https://youtu.be/aVnMOhilHBk)         |   [NA]()         |      [NA]()    | Touseef Ahmed
 | Day 2 | `Graph DFS` `Traversal`   | [Watch](https://youtu.be/5cVvQHBHNQg)         |   [NA]()         |      [Graph DFS](https://github.com/hamzabeig/Leetcode/blob/main/graph-dfs-code/dfs.py)    | Hamza Baig
-| Day 3 | ``   | []()         |   []()         |      []()    | Marium Noor
+| Day 3 | `Dijkstra` `Topological Sort`  | [Watch](https://www.youtube.com/watch?v=Ff67fIx6hrU)         |   [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)         |      [743. Network Delay Time](https://github.com/hamzabeig/Leetcode/blob/main/743-Network-Delay-Time-mariyum%20noor/ndt.py)    | Marium Noor
+| Day 4 | ``   | [Watch]()         |   []()         |      []()    | Marium Noor
