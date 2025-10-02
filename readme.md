@@ -65,9 +65,9 @@ Each day includes:
 ---
 
 ### 🌐 Week 5: Backtracking & Graphs
-- **Day 1 (Mon, 29 Sep):**  Backtracking Basics 
-- **Day 2 (Tue, 30 Sep):**  Graph Basics + BFS/DFS | *LC: Number of Islands* 
-- **Day 3 (Wed, 01 Oct):**  Advanced Graphs (Shortest Path + Topological Sort) | *LC: Network Delay Time, Course Schedule* 
+- **Day 1 (Mon, 29 Sep):**  Backtracking Basics and Intro to Graphs
+- **Day 2 (Tue, 30 Sep):**  Graph DFS | *LC: Number of Islands* 
+- **Day 3 (Wed, 01 Oct):**  Graph BFS, Shortest Path,Topological Sort) | *LC: Network Delay Time, Course Schedule* 
 - **Day 4 (Thu, 02 Oct):**  Dynamic Programming
 - **Day 5 (Fri, 03 Oct):** 🎉Final Recap
 
